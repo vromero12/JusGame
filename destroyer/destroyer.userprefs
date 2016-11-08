@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="destroyer/destroyer.csproj" />
+﻿<Properties StartupItem="destroyer/destroyer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="destroyer/Program.cs">
+    <Files>
+      <File FileName="destroyer/Program.cs" Line="20" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
